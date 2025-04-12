@@ -1,0 +1,43 @@
+[
+    {
+      "fake": "Drinking hot water kills coronavirus.",
+      "real": "According to WHO, there is no evidence that drinking hot water kills coronavirus. Maintaining hygiene and vaccination are key."
+    },
+    {
+      "fake": "5G towers spread COVID-19.",
+      "real": "COVID-19 is spread through respiratory droplets, not mobile networks, says WHO."
+    },
+    {
+      "fake": "Eating garlic can cure COVID-19.",
+      "real": "Garlic is healthy but there's no evidence it can cure COVID-19, according to WHO."
+    },
+    {
+      "fake": "COVID-19 vaccines cause infertility.",
+      "real": "WHO confirms that COVID-19 vaccines do not affect fertility in men or women."
+    },
+    {
+      "fake": "Only old people need to worry about COVID-19.",
+      "real": "WHO states that people of all ages can get infected and severely affected by COVID-19."
+    },
+    {
+      "fake": "Taking antibiotics helps prevent or treat COVID-19.",
+      "real": "WHO confirms antibiotics do not work against viruses, only bacteria. They should not be used for COVID-19 prevention or treatment."
+    },
+    {
+      "fake": "COVID-19 is just like the flu.",
+      "real": "COVID-19 spreads more easily, causes more severe illness in some people, and has higher mortality compared to flu, says WHO."
+    },
+    {
+      "fake": "Masks cause carbon dioxide poisoning.",
+      "real": "WHO states that wearing a mask for prolonged periods does not cause CO2 intoxication or oxygen deficiency."
+    },
+    {
+      "fake": "Home remedies like ginger and turmeric can cure COVID-19.",
+      "real": "While they may boost immunity, WHO emphasizes that they cannot cure or prevent COVID-19."
+    },
+    {
+      "fake": "COVID-19 vaccines contain microchips.",
+      "real": "There is no microchip in any of the COVID-19 vaccines. WHO assures all approved vaccines are safe and transparent in ingredients."
+    }
+  ]
+  
